@@ -6,6 +6,6 @@ AI orchestration platform for routing requests across multiple providers.
 In progress...
 
 ## Features
-- [] Multi-provider integration
-- [] Cost optimization
-- [] Analytics dashboard
+- [ ] Multi-provider integration
+- [ ] Cost optimization
+- [ ] Analytics dashboard
